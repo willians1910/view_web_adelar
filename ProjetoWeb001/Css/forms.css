@@ -1,0 +1,29 @@
+.forms input[type=text]{
+    width:100%;
+    display: table;
+    margin-bottom:17px;
+}
+
+.forms{
+    margin:0 auto;
+    width:500px;
+
+}
+.botao {
+    
+    border:none;
+    background-color: #1c1ca0;
+    margin-left:25px;
+    color: #FAFAFA;
+    padding:5px;
+    text-align:center;
+    width: 130px;
+    height:auto;
+}
+form{
+    margin-top:50px;
+}
+.botoes{
+    margin:0 auto;
+    
+}
