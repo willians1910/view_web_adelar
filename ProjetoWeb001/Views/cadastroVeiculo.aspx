@@ -5,50 +5,22 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <link href="../Css/reset.css" rel="stylesheet"/>
-<link href="../Css/forms.css" rel="stylesheet"/>
-<link href="../Css/header.css" rel="stylesheet"/>
+    <link href="../Css/reset.css" rel="stylesheet"/>
+    <link href="../Css/forms.css" rel="stylesheet"/>
+
+    
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="../Scripts/jquery-3.4.1.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/umd/popper-utils.min.js"></script>
     <title>cadastro de veiculo</title>
 </head>
 <body>
     
-    <header>
-        <div class="container">
-            <div class="logo">
-                <p>logo</p>
-            </div>
-                <div class="menu">
-                    <div class="dropdown">
-                    <button class="dropbtn">menu1</button>
-                    <div class="dropdown-content">
-                    <a href="#">Link 1</a>
-                    <a href="#">Link 2</a>
-                    <a href="#">Link 3</a>
-                    </div>
-                    </div>
-                    <div class="dropdown">
-                    <button class="dropbtn">menu2</button>
-                    <div class="dropdown-content">
-                    <a href="#">Link 1</a>
-                    <a href="#">Link 2</a>
-                    <a href="#">Link 3</a>
-                    </div>
-                    </div>
-                    <div class="dropdown">
-                    <button class="dropbtn">menu3</button>
-                    <div class="dropdown-content">
-                    <a href="#">Link 1</a>
-                    <a href="#">Link 2</a>
-                    <a href="#">Link 3</a>
-                    </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="login">
-        
-        </div>
-    </header>
+        <nav class="navbar navbar-dark bg-dark">
+        <a class="navbar-brand" href="Home1.aspx">Início</a>
+    </nav>
+
     <form id="veiculo" runat="server" method="post" action="#">
         <div class="forms">
             <label>placa</label>

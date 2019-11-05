@@ -17,7 +17,10 @@
 
     <nav class="navbar navbar-dark bg-dark">
            <a class="navbar-brand" href="Home1.aspx">Início</a>
+          
     </nav>
+
+     
 
   <form class="container form-group">
     <table>
@@ -70,11 +73,11 @@
             <br />
 
                <div class="card" style="width: 18rem;">
-                      <img src="../Imagens/funcionarios.png" class="card-img-top"/>
+                      <img src="../Imagem/funcionarios.png" class="card-img-top"/>
                       <div class="card-body">
                         <h5 class="card-title">Funcionários</h5>
                         <p class="card-text">Cadastre seus funcionários e tenha o registro de toda sua equipe de tabalho.</p>
-                        <a href="CadastroFuncionario.aspx" class="btn btn-primary">Cadastrar Funcionário</a>
+                        <a href="cadastroFuncionario.aspx" class="btn btn-primary">Cadastrar Funcionário</a>
                       </div>
                     </div>
             </td>

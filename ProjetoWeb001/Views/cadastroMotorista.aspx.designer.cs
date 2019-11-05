@@ -139,13 +139,13 @@ namespace Aplicacao_Web {
         protected global::System.Web.UI.WebControls.TextBox numero;
         
         /// <summary>
-        /// Controle Button1.
+        /// Controle registrarButton.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
+        protected global::System.Web.UI.WebControls.Button registrarButton;
         
         /// <summary>
         /// Controle Button2.

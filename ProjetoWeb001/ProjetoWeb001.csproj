@@ -78,6 +78,10 @@
     <Content Include="Css\forms.css" />
     <Content Include="Css\header.css" />
     <Content Include="Css\reset.css" />
+    <Content Include="Imagem\empresa.png" />
+    <Content Include="Imagem\funcionarios.png" />
+    <Content Include="Imagem\motorista.jpg" />
+    <Content Include="Imagem\planilhaaa-gesto-de-frota-profissional-controle-de-veiculos-D_NQ_NP_706244-MLB32311719024_092019-F.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />

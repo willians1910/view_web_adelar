@@ -13,5 +13,10 @@ namespace Aplicacao_Web
         {
 
         }
+
+        protected void registrarButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
